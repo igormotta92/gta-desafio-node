@@ -1,5 +1,5 @@
 const { apiService } = require('./service/api');
-const { getNoticias } = require('./capture-noticias-g1');
+const { getNoticias } = require('./get-news-g1');
 const fs = require('fs');
 
 apiService.get('/')
@@ -16,7 +16,7 @@ apiService.get('/')
 // ==================================================
 
 function writeFile(data, filename) {
-  const fileName = `${filename}.json`;
+  const fileName = `src/${filename}.json`;
   fs.writeFile(fileName, JSON.stringify(data, null, 2), (err) => {
     if (err)
       console.log(err);
