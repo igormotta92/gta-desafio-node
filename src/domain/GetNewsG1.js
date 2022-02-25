@@ -15,7 +15,7 @@ class GetNewsG1 {
     await this.loadHtmlPage();
     const infoHtml = this.getInfoHtml();
 
-    console.log(infoHtml);
+    // console.log(infoHtml);
 
   }
 
@@ -30,12 +30,35 @@ class GetNewsG1 {
   }
 
   getInfoHtml() {
+
+    const news = [];
+    //-----------
     const $ = cheerio.load(this.html);
+    let content_news = $('#bstn-launcher');
+
+    $(content_news).find('.bastian-feed-item').each(function () {
+      let item = $(this);
+
+      let subTitle = item.find('.feed-post-header-chapeu').text();
+
+
+      console.log(subTitle);
+      console.log('=====================');
+
+      news.push({
+        subTitle
+      });
+
+    });
+
+    console.log(news);
 
     //elementos
-    const content_news = $('.bstn-fd.bstn-fd');
-
-    console.log(content_news.text());
+    // const content_news = $('.bstn-fd.bstn-fd ._evt .bastian-feed-item .feed-post-body');
+    // content_news.each(function () {
+    //   console.log($(this).html());
+    // });
+    // console.log('\r\n');
 
   }
 
