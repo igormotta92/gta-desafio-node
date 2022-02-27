@@ -1,7 +1,7 @@
 import path from 'path';
 import fs from 'fs'; 1
 
-import File from '../../util/File.js';
+import File from '#src/util/File';
 
 export default class ExtractInfo {
   constructor(extract) {

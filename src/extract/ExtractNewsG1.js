@@ -3,8 +3,8 @@
 
 import cheerio from 'cheerio';
 
-import { apiService } from '../service/api.js';
-import NewsInterface from '../port/NewsInterface.js'
+import { apiService } from '#src/service/api';
+import NewsInterface from '#src/adapter/NewsInterface'
 
 //import util from 'util';
 //util.inspect.defaultOptions.depth = 3;

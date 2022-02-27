@@ -1,7 +1,41 @@
 [
   {
-    "imagem": "https://s2.glbimg.com/V1rlcNqHBumDD3ntDeA-JrKdPSE=/0x0:1920x1080/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/2/eZyOy5TMCV4LLm3pghXg/pgm-globonews-limpo-ao-vivo-20220227-1559-frame-132410.jpeg",
+    "imagem": "https://s2.glbimg.com/awU5L2b76j_RTIwxFt7_ipCMTro=/0x0:1920x1080/540x304/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/H/TrWVobRgGNBIL16ncgpg/pgm-globonews-limpo-ao-vivo-20220227-1559-frame-405777.jpeg",
     "subTitle": "",
+    "title": "GLOBONEWS: acompanhe as últimas notícias sobre a guerra na Ucrânia ",
+    "titleURL": "https://g1.globo.com/globonews/ao-vivo/globonews-ao-vivo.ghtml",
+    "subItens": [
+      {
+        "title": "🎧 Isso é Fantástico: De 'palhaço' a presidente da Ucrânia, a reviravolta de Zelensky",
+        "titleURL": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2022/02/27/isso-e-fantastico-de-palhaco-a-presidente-da-ucrania-em-guerra-a-reviravolta-na-historia-de-volodymyr-zelensky.ghtml"
+      }
+    ],
+    "metadata": "Há 4 horas - GloboNews"
+  },
+  {
+    "imagem": "https://s2.glbimg.com/dgdBRD2wdyodwMx2AdUHF5A0nkI=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/GUn_DCWCkee6DVk9KsKFSwqMy-U=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/10341203.jpg",
+    "subTitle": "",
+    "title": "Por que a ameaça nuclear de Putin é o que a Otan mais temia",
+    "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/ameaca-nuclear-russa-e-o-que-a-otan-temia.ghtml",
+    "subItens": [
+      {
+        "title": "Putin põe equipes de armas nucleares em posição de alerta",
+        "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/putin-poe-equipes-de-armas-nucleares-em-posicao-de-alerta.ghtml"
+      },
+      {
+        "title": "SANDRA COHEN: o que Putin tem em mente para a Ucrânia?",
+        "titleURL": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2022/02/27/o-que-putin-tem-em-mente-para-a-ucrania.ghtml"
+      },
+      {
+        "title": "Invasão está saindo como a Rússia esperava? Especialistas analisam",
+        "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/guerra-na-ucrania-invasao-esta-saindo-como-russia-esperava.ghtml"
+      }
+    ],
+    "metadata": "Há 1 hora - Mundo"
+  },
+  {
+    "imagem": "https://s2.glbimg.com/o17kal4Rt9N2r40-qtjzzFbBXYY=/0x330:3173x2115/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/d/p/BxzTLpSqCql7fOrYmiEg/ap22058731743313.jpg",
+    "subTitle": "Reunião extraordinária ",
     "title": "Rússia vota contra sessão emergencial na ONU; Brasil vota a favor",
     "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/conselho-de-seguranca-aprova-reuniao-de-emergencia-da-assembleia-geral-da-onu-brasil-vota-a-favor.ghtml",
     "subItens": [
@@ -10,58 +44,41 @@
         "titleURL": "https://g1.globo.com/globonews/jornal-globonews/video/embaixador-do-brasil-na-onu-vota-a-favor-pela-reuniao-de-emergencia-sobre-conflito-entre-russia-e-ucrania-10341540.ghtml"
       }
     ],
-    "metadata": "Há 16 minutos - Mundo"
-  },
-  {
-    "imagem": "https://s2.glbimg.com/J_shTMQlDLE72fls6j42EymSF3I=/0x0:1920x1080/540x304/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/d/w/7x7syVQsSrEJnrul1Q1A/pgm-globonews-limpo-ao-vivo-20220227-1559-frame-186067.jpeg",
-    "subTitle": "",
-    "title": "GLOBONEWS: acompanhe as últimas notícias sobre a guerra da Ucrânia ",
-    "titleURL": "https://g1.globo.com/globonews/ao-vivo/globonews-ao-vivo.ghtml",
-    "subItens": [
-      {
-        "title": "🎧 Isso é Fantástico: De 'palhaço' a presidente da Ucrânia, a reviravolta de Zelensky",
-        "titleURL": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2022/02/27/isso-e-fantastico-de-palhaco-a-presidente-da-ucrania-em-guerra-a-reviravolta-na-historia-de-volodymyr-zelensky.ghtml"
-      }
-    ],
-    "metadata": "Há 2 horas - GloboNews"
+    "metadata": "Há 2 horas - Mundo"
   },
   {
     "imagem": "https://s2.glbimg.com/DoGHrwgX9eX_CZZyGEVHDbk78ho=/0x0:720x405/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/GiNiyerBP40CAuv8f1N0b-pSbFE=/720x0/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/98/14/10341498",
-    "subTitle": "",
+    "subTitle": "Capital da Ucrânia ",
     "title": "VÍDEO: imagens aéreas mostram comboio russo em direção à Kiev",
     "titleURL": "https://g1.globo.com/mundo/video/imagens-de-satelite-mostram-comboio-russo-se-movendo-em-direcao-a-kiev-10341498.ghtml",
     "subItens": [],
-    "metadata": "Há 25 minutos - G1 Mundo"
+    "metadata": "Há 3 horas - G1 Mundo"
+  },
+  {
+    "imagem": "https://s2.glbimg.com/R55VO3u6JKQ112NrMws0zYhG4UU=/0x0:562x316/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/e/C/9KPrCER5iRkqjKWm5jKw/gif-mapa.gif",
+    "subTitle": "",
+    "title": "MAPAS mostram ataques da Rússia até aqui e o caminho das tropas",
+    "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/21/mapa-conflito-ucrania-russia.ghtml",
+    "subItens": [
+      {
+        "title": "Perdeu o fio da meada? Leia resumo do que aconteceu até agora",
+        "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/25/guerra-na-ucrania-o-que-aconteceu-ate-agora.ghtml"
+      }
+    ],
+    "metadata": "Há 8 horas - Mundo"
   },
   {
     "imagem": "https://s2.glbimg.com/CwiXwTiMJ72hM2KV6g0tft1-8Sw=/0x0:1271x715/540x304/smart/filters:max_age(3600)/http://s01.video.glbimg.com/x720/10341463.jpg",
-    "subTitle": "",
-    "title": "Maior avião do mundo, Antonov-225 Mriya é destruído em ataque",
+    "subTitle": "Destruído por russos",
+    "title": "Reconstrução do maior avião do mundo custaria US$ 3 bilhões",
     "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/maior-aeronave-do-mundo-antonov-225-mriya-e-destruida-em-ataque-russo-na-ucrania.ghtml",
     "subItens": [
       {
-        "title": "Aeronave foi desenvolvida para transportar ônibus especial soviético",
-        "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/antonov-225-mryia-maior-aeronave-do-mundo-foi-desenvolvida-para-transportar-onibus-especial-sovietico.ghtml"
+        "title": "Queimado em ataque, Antonov-225 Mriya levou ônibus espacial soviético",
+        "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/maior-aeronave-do-mundo-antonov-225-mriya-e-destruida-em-ataque-russo-na-ucrania.ghtml"
       }
     ],
-    "metadata": "Há 5 horas - Ucrânia e Rússia"
-  },
-  {
-    "imagem": "https://s2.glbimg.com/dgdBRD2wdyodwMx2AdUHF5A0nkI=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/GUn_DCWCkee6DVk9KsKFSwqMy-U=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/10341203.jpg",
-    "subTitle": "Escalada do conflito",
-    "title": "Putin põe equipes de armas nucleares em posição de alerta",
-    "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/putin-poe-equipes-de-armas-nucleares-em-posicao-de-alerta.ghtml",
-    "subItens": [
-      {
-        "title": "Rússia está escalando o conflito de maneira inaceitável, dizem EUA",
-        "titleURL": "https://g1.globo.com/mundo/ao-vivo/guerra-ucrania-russia-putin-invasao.ghtml?postId=579aca08-eda8-4735-b705-e0f87330b777"
-      },
-      {
-        "title": "Após impasse sobre local, Ucrânia terá encontro com russos",
-        "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/presidente-da-ucrania-diz-que-delegacao-do-pais-vai-encontrar-os-russos-sem-pre-condicoes.ghtml"
-      }
-    ],
-    "metadata": "Há 7 horas - Ucrânia e Rússia"
+    "metadata": "Há 28 minutos - Ucrânia e Rússia"
   },
   {
     "imagem": "https://s2.glbimg.com/qM97Dro5cYPyDq_yCb1IAI7V4u8=/287x91:1155x578/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/XzAED3HfbQ1AirfHyTmMar4UoIU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/X/xSUXBWT3OsXpU1pQlTnQ/2022-02-26t102237z-1360840352-rc2mrs9o6l0m-rtrmadp-3-ukraine-crisis-mayor-klitschko.jpg",
@@ -74,39 +91,26 @@
         "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/alemanha-entra-em-nova-era-na-politica-externa-e-de-defesa.ghtml"
       }
     ],
-    "metadata": "Há 6 minutos - Ucrânia e Rússia"
-  },
-  {
-    "imagem": "https://s2.glbimg.com/_uTVApWjbrq5IVxKfRGJkZHjtP4=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/UMH4qdBMAy6biaIMRpM9tRVUUPA=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/10341347.jpg",
-    "subTitle": "",
-    "title": "Alemanha muda postura, envia armas e anuncia bilhões para tropas",
-    "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/alemanha-entra-em-nova-era-na-politica-externa-e-de-defesa.ghtml",
-    "subItens": [
-      {
-        "title": "Trump agora afirma que ataque russo é 'terrível'",
-        "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/apos-chamar-putin-de-genio-trump-muda-tom-e-chama-ataque-russo-a-ucrania-de-terrivel.ghtml"
-      }
-    ],
-    "metadata": "Há 4 horas - Mundo"
-  },
-  {
-    "subTitle": "",
-    "title": "União Europeia fecha espaço aéreo para Rússia e impõe mais sanções ",
-    "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/uniao-europeia-anuncia-novas-sancoes-contra-a-russia.ghtml",
-    "subItens": [
-      {
-        "title": "Europa entrega quantidades 'significativas' de armas à Ucrânia",
-        "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/uniao-europeia-comeca-a-fornecer-quantidades-significativas-de-armas-a-ucrania.ghtml"
-      }
-    ],
     "metadata": "Há 2 horas - Ucrânia e Rússia"
   },
   {
-    "imagem": "https://s2.glbimg.com/VfgpQ38pQ3suXsHH0oEMjS6pBJE=/0x0:565x318/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/C/paplKNS1uQR18afqbzgw/selo-feed-tit.gif",
     "subTitle": "",
-    "title": "Da ordem de Putin ao cerco e resistência de Kiev: os 4 dias da guerra",
-    "titleURL": "https://especiaisg1.globo/mundo/guerra-russia-ucrania/",
+    "title": "Itamaraty: 80 brasileiros já deixaram a Ucrânia",
+    "titleURL": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/27/itamaraty-informa-que-80-brasileiros-ja-deixaram-a-ucrania.ghtml",
     "subItens": [],
-    "metadata": "Há 1 hora"
+    "metadata": "Há 23 minutos - Ucrânia e Rússia"
+  },
+  {
+    "imagem": "https://s2.glbimg.com/dTO_ikAw3AcKHewX_aI4bYIM1ZU=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/2FYt3Mhfpe9uSqg1bw1xIUT-jNg=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/10341409.jpg",
+    "subTitle": "",
+    "title": "Jogador brasileiro diz que precisou pagar para deixar a Ucrânia",
+    "titleURL": "https://g1.globo.com/mundo/noticia/2022/02/27/jogador-brasileiro-diz-que-precisou-pagar-para-deixar-a-ucrania-pela-fronteira-com-a-romenia.ghtml",
+    "subItens": [
+      {
+        "title": "VÍDEOS: veja relatos de brasileiros que tentam deixar a Ucrânia",
+        "titleURL": "https://g1.globo.com/mundo/ucrania-russia/playlist/videos-brasileiros-na-ucrania.ghtml"
+      }
+    ],
+    "metadata": "Há 1 hora - Mundo"
   }
 ]
