@@ -1,5 +1,4 @@
-const { GetNewsG1: DomainGetNewsG1 } = require('./domain/GetNewsG1');
+import ExtractInfo from './domain/ExtractInfo.js';
+import ExtractNewsG1 from './extract/ExtractNewsG1.js';
 
-const GetNewsG1 = new DomainGetNewsG1();
-
-GetNewsG1.executa();
+ExtractInfo.extract(new ExtractNewsG1());
