@@ -2,17 +2,24 @@
   "name": "gta-desafio-node",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js --ignore public/news"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "nodemon": "^2.0.15"
   },
   "dependencies": {
     "axios": "0.26.0",
     "cheerio": "1.0.0-rc.10"
+  },
+  "imports": {
+    "#root/*": "./",
+    "#src/*": "./src/*.js"
   }
 }
